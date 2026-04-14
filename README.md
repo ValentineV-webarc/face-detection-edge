@@ -43,4 +43,4 @@ jupyter notebook FaceDetection.ipynb
 ```
 
 ## Author
-**Valentine** — Year 1/2 Information Engineering and Media, NTU Singapore
+**Valentine** — Information Engineering and Media Student, NTU Singapore
